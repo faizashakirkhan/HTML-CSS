@@ -1,0 +1,352 @@
+.nav ul{
+    display: flex;
+    flex-direction: row;
+
+gap: 90px;
+}
+body{
+    margin: 10px;
+    padding: 0;
+    
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.main1{
+    height: 250px;
+    width: 250px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.div1{
+    font-size: 35px;
+   
+}
+.nav button{
+  
+    height: 20px;
+    width: 60px;
+    background-color: brown;
+}
+
+.textbookmark{
+    
+    display: flex;
+    flex-direction: row;
+    font-size: 20px; 
+    font-style: oblique;
+
+  
+}
+.button1{
+    
+    background-color: rgb(59, 59, 211) ;
+    height: 40px;
+
+    text-align: center;
+}
+
+
+.button1:hover{
+    cursor: pointer;
+    background-color:white;
+    transition: 2s;
+    transform: scale(1.1);
+
+}
+ .button2:hover{
+    cursor: pointer;
+background-color: rgb(59, 59, 211) ;
+    transform: scale(1.1);
+    transition: 2s;
+
+}
+.button2{
+    background-color:white;
+    height: 40px;
+    
+    text-align: center;
+}
+
+
+
+.img{
+display: flex;
+justify-content: flex-end;
+margin-top: 50px;
+}
+
+.div1{
+    flex-direction: column;
+}
+.div2 h2{
+    text-align: center;
+}
+   
+
+.heading1{
+    display: flex;
+    justify-content:center;
+    margin-right: 350px;
+    margin-left:490px;
+    margin-top:-250px;
+}
+.textbookmark2{
+    display: flex;
+    justify-content: flex-end;
+margin-left: 590px;
+    font-style: oblique;
+    margin-right: 250px;
+margin-top: -20px;
+
+}
+.div2{
+    background-color:whitesmoke;
+}
+.button3{
+    background-color: rgb(59, 59, 211) ;
+height: 40px;
+
+margin-left: 670px;
+
+
+}
+.button3:hover{
+    cursor: pointer;
+    background-color: white;
+    transform: scale(1.1);
+    transition: 2s;
+
+}
+.heading2{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    font-weight: bold;
+    margin-bottom:180px ;
+    margin-top: 100px;
+    margin-right: 790px;
+    margin-top: 150px;
+    }
+    .textbookmark3{
+        font-style: oblique;
+    margin-bottom: 100px;
+    margin-top: -140px;
+    font-size: 17px;
+    
+    
+    }
+    .button4{
+        background-color:rgb(59, 59, 211);
+       padding:10px 20px ;
+        height: 40px;
+        margin-top:-390px;
+        margin-left: 270px;
+    }
+
+
+.button4:hover{
+    cursor: pointer;
+    background-color: white;
+    transform: scale(1.1);
+    transition: 2s;
+}
+
+    .img1{
+        display: flex;
+        justify-content: end;
+        margin-top:-250px ;
+        
+    }
+    .textbookmark1{
+        font-style: oblique;
+        font-size: 22px;
+        margin-left: 25px;
+        margin-right: 25px;
+        
+    }
+    .border{
+        background-color: blue;
+        height: 400px;
+        width: 580px;
+        border-top-right-radius: 200px;
+        border-bottom-right-radius: 200px;
+        margin-top: -300px;
+        margin-left: -50px;
+        margin-right: -300px;
+    }
+.heading5{
+margin-left:790px ;
+margin-top: -290px;
+font-size: 17px;
+}
+.textbookmark4{
+    margin-left: 590px;
+    margin-top: 40px;
+    font-style: oblique;
+    font-size: 20px;
+}
+.button5{
+    margin-bottom: 100px;
+    background-color: rgb(59, 59, 211);
+    height: 40px;
+    margin-left: 780px;
+    
+    
+}
+.button5:hover{
+    cursor: pointer;
+    background-color: white;
+    transform: scale(1.1);
+    transition: 2s;
+}
+.heading6{
+    margin-top:190px ;
+    margin-left: 590px;
+}
+.textbookmark5{
+    margin-left: 390px;
+    font-style: oblique;
+
+}
+.main4{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+}
+.box2{
+border: 1px  rgb(209, 196, 196) solid;
+margin: 10px;
+padding: 30px;
+text-align:center ;
+}
+.box3{
+    border: 1px rgb(208, 190, 190) solid;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.box4{
+    border: 1px rgb(208, 190, 190) solid;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+    .button6{
+        background-color: rgb(59, 59, 211) ;
+        height: 30px;
+    }
+.button6:hover{
+    background-color: white;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 2s;
+}
+.button7{
+    background-color:  rgb(59, 59, 211);
+    height: 30px;
+}
+.button7:hover{
+    background-color: white;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 2s;
+
+}
+.button8{
+    background-color:  rgb(59, 59, 211);
+    height: 30px;
+}
+.button8:hover{
+    background-color: white;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 2s;
+}
+.div6{
+    background-color:whitesmoke;
+}
+.div7{
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    text-decoration: underline;
+text-decoration-color: rgb(199, 195, 189);
+text-underline-offset: 10px;
+    padding: 10px;
+    box-shadow: 10px;
+
+
+    
+
+}
+.img9{
+    height: 20px;
+}
+
+.div6{
+    text-align: center;
+}
+.textbookmark9{
+    margin-top: 40px;
+    font-style: oblique;
+    font-size: 19px;
+
+}
+.button9{
+    background-color: rgb(59, 59, 211) ;
+    height: 40px;
+    width: 70px;
+    margin-left: 650px;
+}
+.button9:hover{
+    cursor: pointer;
+    background-color: white;
+    transform: scale(1.1);
+    transition: 2s;
+}
+.footer{
+    background-color:  rgb(59, 59, 211) ;
+    
+}
+.textbookmark10{
+    color: azure;
+    font-style: oblique;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.heading11{
+
+    color: azure;
+    font-style: italic;
+    font-size:19 ;
+    text-align: center;
+}
+
+.button10{
+    background-color:brown ;
+    height: 30px;
+    margin-left: 30px;
+    margin-bottom:  20px;
+}
+.input{
+    margin-left: 550px;
+    box-sizing:10px ;
+    margin-bottom: 20px;
+}
+.img10{
+    width: 1360px;
+    height: 80px;
+}
+.footer2{
+    background-color: rgba(19, 19, 48, 0.742);
+}

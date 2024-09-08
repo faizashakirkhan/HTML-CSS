@@ -1,0 +1,172 @@
+.nav{
+  
+  gap: 20px;
+  text-decoration: none;
+  color: black;
+ margin-top: -30px;
+  display: flex;
+  justify-content: center;
+  
+
+
+ 
+
+}
+.span{
+gap: 20px;
+
+}
+.span1{
+    background-color: white;
+    border-radius: 60px;
+    height: 30px;
+    width: 150px;
+    border: 1px solid black;
+   
+    text-align: center;
+ 
+}
+.header{
+    background-color: #e9e7e7;
+    height: 60px;
+
+}
+.img1{
+    margin-left: 140px;
+    margin-top: 20px;
+ 
+}
+.img2{
+  
+    margin-right: 40px;
+}
+.nav-link1{
+    color:black;
+    text-decoration: none;
+margin-top: -30px;
+}
+.container{
+    background:linear-gradient(#C1DEE8,#FBD9B9);
+    height: 600px;
+    width: 1200px;
+    margin-top: 54px;
+    border-radius: 30px;
+ padding: 60px;
+
+}
+.form-control{
+    width: 400px;
+    border-radius: 20px;
+    height: 60px;
+    margin-top: 50px;
+}
+.h6{
+    margin-top: 30px;
+}
+.h1{
+margin-top: 20px;
+}
+.para{
+    margin-left: 300px;
+    margin-top: -60px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 60px;
+    border-radius: 20px;
+    text-align: center;
+}
+.div1{
+    margin-left: 600px;
+    margin-top: -290px;
+}
+.box1 h1,h6{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.heading{
+    margin-left: 660px;
+}
+.div2{
+    margin: 30px;
+    padding: 10px;
+    margin-left: 200px;
+}
+.div3{
+    margin: 30px;
+    padding: 10px;
+    margin-left: 600px;
+    margin-top: -260px;
+    
+}
+.div4{
+    margin: 30px;
+    padding: 10px;
+    margin-left: 1000px;
+    margin-top: -260px;
+}
+.box h1,h6{
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+}
+.card{
+    margin: 30px;
+    padding: 40px;
+    
+}
+.card-img-top{
+    background:linear-gradient(#C1DEE8,#FBD9B9);
+}
+.global{
+    margin: 50px;
+  
+}
+.heading7{
+margin-right: 950px;
+}
+.button6{
+    width: 99px;
+    height: 49px;
+    color: white;
+    background-color: black;
+    border-radius: 40px;
+}
+.button7{
+    width: 99px;
+    height: 49px;
+    border-radius: 40px;
+}
+.heading8{
+    margin-right: 950px;
+    font-size: 70px;
+    flex-direction: column;
+}
+.div11{
+    margin-left: 150px;
+    margin-top: -160px;
+}
+.div12{
+    margin-left: 290px;
+    margin-top: -160px;
+}
+.img5{
+    margin-left: 700px;
+    margin-top: -400px;
+}
+.heading9{
+    margin-right:590px ;
+}
+
+.checked{
+    color: orange;
+}
+@media screen and (max-width: 600px) {
+    .header {
+      
+    }
+    .containe h6,h1{
+    
+    }
+}

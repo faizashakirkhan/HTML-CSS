@@ -1,0 +1,48 @@
+.header{
+    background-color: black;
+    height: 500px;
+    padding: 30px;
+   
+}
+.h4{
+    color:white;
+}
+.h1{
+    color:white;
+    font-size: 60px;
+    margin-left: 500px;
+}
+.div2{
+    margin-left: 1230px;
+    margin-top: -60px;
+}
+.div{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.para1{
+    color:white;
+    margin-left: 500px;
+    font-size: 20px;
+}
+.para{
+    color:white;
+    margin-left: 500px;
+    font-size: 20px;
+}
+.button{
+    margin-left: 500px;
+    height: 30px;
+   
+
+}
+.heading{
+    color:white;
+    margin-top: -40px;
+    margin-left: 80px;
+}
+.img{
+    border-radius: 50%;
+}
+
+background-image: linear-gradient();

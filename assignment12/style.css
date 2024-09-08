@@ -1,0 +1,122 @@
+.span{
+    color: orange;
+    font-size: 20px;
+
+}
+.span1{
+    font-size: 20px;
+}
+.nav-link{
+    color: black;
+    text-decoration: none;
+
+
+}
+.header{
+    position: fixed;
+     z-index:1;
+background-color:#D3D3D3 ;
+width:1500px;
+}
+
+.nav{
+    display: flex;
+    justify-content: end;
+    margin-top: -30px;
+    font-size: 17px;
+}
+.heading1{
+    color: orange;
+font-size: 60px;
+}
+.heading2{
+    color: rgb(19, 19, 50);
+    font-size: 50px;
+}
+.div2{
+    margin-left: 700px;
+    margin-top: -300px;
+}
+.img5{
+    width: 300px;
+    height: 300px;
+    background-color:#D3D3D3;
+    margin: 50px;
+    border-radius: 5%;
+
+
+}
+.heading4{
+    margin-top: 190px;
+    font-size: 50px;
+    color: rgb(12, 12, 21);
+    margin-left: 20px;
+
+}
+.main{
+    background-color:#D3D3D3;
+    height: 720px;
+    width: 1500px;
+}
+.card{
+    margin: 50px;
+    border-radius: 6%;
+
+}
+.custom{
+    color: orange;
+}
+.card-title{
+    font-size: 30px;
+    color:rgb(12, 12, 21) ;
+}
+.card-body1{
+    padding: 10px;
+}
+.card-title1{
+    font-size: 30px;
+    color:rgb(12, 12, 21) ;
+}
+.heading5{
+    font-size: 50px;
+    color: rgb(12, 12, 21);
+margin-left: 20px;
+}
+.icon{
+    width: 80px;
+    height: 80px;
+}
+.png{
+    display: flex;
+    justify-content: end;
+}
+.card-body3{
+    padding: 10px;
+    margin-left: 140px;
+    margin-top: -80px;
+}
+.icon7{
+  margin: 10px;
+  padding: 10px;
+}
+.icon8{
+    width: 500px;
+    height: 300px;
+    margin-left: 900px;
+    margin-top: -600px;
+}
+.custom-highlight{
+    color: orangered;
+}
+.text-dark{
+    text-decoration: none;
+}
+@media only screen and (max-width:1270px) {
+    .header{
+    margin-left:-799px;
+    }
+    .div1{
+        margin-left: 200px;
+        margin-top: 80px;
+    }
+}
